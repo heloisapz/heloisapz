@@ -4,7 +4,7 @@
 -Estudando React-Native e PostgreSQL para desenvolver meu TCC!! ; <br>
 -Conhecimento sobre linguagens como PHP, Java, C# e HTML como linguagem de marcação; <br>
 
-<h3> Irei usar GIT e GitHub para desenvolver meu TCC Candi com minha equipe <3 </h3>
+<h3> Usarei GIT e GitHub para desenvolver meu TCC Candi com minha equipe <3 </h3>
 
 
 
