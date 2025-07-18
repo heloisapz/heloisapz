@@ -1,11 +1,6 @@
 <h1 align="center">Olá! Eu sou a Heloísa 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/heloisapz.png" width="140" style="border-radius: 50%" alt="Heloísa Pichelli">
-</p>
-
-
-<p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas | Dev em formação com paixão por tecnologia, cloud e boas ideias ☁️💡
 </p>
 
