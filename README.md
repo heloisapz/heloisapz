@@ -1,6 +1,11 @@
 <h1 align="center">Olá! Eu sou a Heloísa 👋</h1>
 
 <p align="center">
+  <img src="https://github.com/heloisapz.png" width="140" style="border-radius: 50%" alt="Heloísa Pichelli">
+</p>
+
+
+<p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas | Dev em formação com paixão por tecnologia, cloud e boas ideias ☁️💡
 </p>
 
@@ -34,8 +39,8 @@
 ### 📈 Estatísticas GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=heloisapichelli&show_icons=true&theme=radical&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisapichelli&layout=compact&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=heloisapz&show_icons=true&theme=radical&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisapz&layout=compact&theme=radical"/>
 </div>
 
 ---
