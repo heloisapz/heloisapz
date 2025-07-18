@@ -1,40 +1,55 @@
-# 🚀 Bem-vindo ao meu repositório!  
+<h1 align="center">Olá! Eu sou a Heloísa 👋</h1>
 
-Olá! Eu sou **Heloísa**, estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC**. Este repositório faz parte do meu portfólio no GitHub, onde compartilho projetos, estudos e experimentos com tecnologia.  <br>
+<p align="center">
+  <img src="https://github.com/heloisapichelli.png" width="140" style="border-radius: 50%" alt="Heloísa Pichelli">
+</p>
 
-<h3>📌 AMS – Parceria com a Volkswagen</h3>  
-Atualmente, faço parte do AMS, um programa educacional desenvolvido em parceria com a Volkswagen, que tem como objetivo formar profissionais qualificados para o mercado de tecnologia. Isso me permitiu expandir meus conhecimentos técnicos e evoluir minhas competências socioemociolais, podendo participar de visitas técnicas e palestras e receber mentoria de profissionais da empresa.<br>
+<p align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas | Dev em formação com paixão por tecnologia, cloud e boas ideias ☁️💡
+</p>
 
-<h3>👩‍💻 Sobre mim </h3>  
-Sou apaixonada pela área de Tecnologia da Informação e estou sempre em busca de novos desafios. Atualmente, tenho conhecimento em: <br>
-✔ Desenvolvimento web, mobile e desktop <br>
-✔ Criação e gerenciamento de bancos de dados <br>
-✔ Noções de redes de computadores <br> <br>
+---
 
-📫 **Vamos conectar?**  
-- 🔗 [LinkedIn](www.linkedin.com/in/heloísa-pichelli-souza)  <br>
-- ✉️ [E-mail para contato](heloisapichellisouza@gmail.com)  <br>
+### 💻 Tecnologias e Ferramentas
 
-<h3>🛠️ Sobre meus projetos </h3>  
-Meu portfólio inclui projetos acadêmicos e pessoais. Em destaque, tenho:<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</div>
 
-<h3>🎓 TCC - Candi</h3> <br>  
-Meu Trabalho de Conclusão de Curso (TCC) é o projeto Candi, uma solução inovadora  trazendo funcionalidades para documentação e compartilhamento de dados. Esse projeto utiliza tecnologias como React Native, Node.js e PostgreSQL, juntamente do Supabase e visa auxiliar os pacientes oncológicos na rotina intensa derivada do tratamento, além de trazer um maior suporte emocional.
+---
 
-🤝 A fim do nosso desejo em contribuir nos tratamentos contra o câncer, desenvolvemos este aplicativo e o apresentamos na 60° Excute da ETEC Jorge Street em 2024, onde o projeto recebeu seu destaque e foi premiado em duas categorias:<br>
+### 🚀 Um pouco sobre mim
 
-🥈 Medalha de prata na disputa por habilitação (entre os três perídos de Desenvolvimento de Sistemas); <br>
-🥈 Medalha de prata na categoria Voto Popular (entre todos os projetos apresentados). <br>
+- 🎓 Técnica em Desenvolvimento de Sistemas (AMS + Volkswagen)
+- 💼 Conhecimentos em DevOps, Cloud (Azure), CI/CD e containers
+- 📱 Desenvolvimento Web, Mobile e Desktop
+- 🌱 Sempre aprendendo algo novo – principalmente no universo back-end e infraestrutura
 
+---
 
+### 📈 Estatísticas GitHub
 
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=heloisapichelli&show_icons=true&theme=radical&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisapichelli&layout=compact&theme=radical"/>
+</div>
 
+---
 
+### 📫 Vamos nos conectar?
 
-
-
-
-<!---
-heloisapz/heloisapz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://www.linkedin.com/in/heloisapichelli" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:heloisapichellisouza@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
